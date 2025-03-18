@@ -42,4 +42,4 @@ else:
 #footer        
 st.write("- - -")
 st.write("""🥇Push beyond limits—every challenge is a step toward growth!🌠""")
-st.write("© Created by Rimsha Farooq")
+st.write("©Created by Rimsha Farooq")
